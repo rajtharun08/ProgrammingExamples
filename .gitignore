@@ -22,3 +22,33 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+# Compiled object files
+*.o
+
+# Compiled binary executables
+*.out
+*.exe
+
+# Precompiled headers
+*.gch
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Editor/IDE specific
+*.swp        # vim
+*~           # temporary files
+.vscode/     # VS Code
+.idea/       # JetBrains CLion
+*.user       # Code::Blocks
+*.cbp        # Code::Blocks project file
+
+# Build directories
+/build/
+/bin/
+/obj/
+
+# Makefile auto-generated files
+Makefile~
+
