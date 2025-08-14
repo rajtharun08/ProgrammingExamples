@@ -1,4 +1,4 @@
-class Solution {
+class FaultyKeyboard {
     public String finalString(String s) {
         StringBuilder sb=new StringBuilder();
         for(char c:s.toCharArray())
