@@ -1,5 +1,4 @@
 public class HammingDistance {
-    class Solution {
     public int hammingWeight(int n) 
     {
         int count=0;
@@ -15,5 +14,4 @@ public class HammingDistance {
         int res=hammingWeight(x^y);
         return res;
     }
-}
 }
