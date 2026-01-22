@@ -1,6 +1,5 @@
-public class Solution {
-    public int[] productExceptSelf(int[] nums) 
-    {
+public class ProductOfArraysExceptSelf {
+    public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
         int[] output = new int[n];
         output[0] = 1;
@@ -14,4 +13,4 @@ public class Solution {
         }
         return output;
     }
-} 
+}
