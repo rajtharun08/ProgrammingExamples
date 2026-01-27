@@ -1,4 +1,4 @@
-class Solution {
+class HouseRobber {
     public int loot(int[] arr,int i,int[] dp)
     {
         if(i<0) return 0;

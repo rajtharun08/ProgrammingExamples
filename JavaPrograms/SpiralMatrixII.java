@@ -1,4 +1,4 @@
-class Solution {
+class SpiralMatrixII {
     public int[][] generateMatrix(int n) {
         int top = 0;
         int bottom = n - 1;

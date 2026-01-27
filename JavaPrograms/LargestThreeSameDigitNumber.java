@@ -1,4 +1,4 @@
-class Solution {
+class LargestThreeSameDigitNumber {
     public String largestGoodInteger(String nums) 
     {
         String max="";

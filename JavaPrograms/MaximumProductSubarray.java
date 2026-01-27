@@ -1,4 +1,4 @@
-class Solution {
+class MaximumProductSubarray {
     public int maxProduct(int[] arr) {
         int prefix = 1, suffix = 1;
         int ans = Integer.MIN_VALUE;
