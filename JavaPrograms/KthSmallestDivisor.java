@@ -1,4 +1,4 @@
-class Solution {
+class KthSmallestDivisor {
     public boolean isValid(int[] arr,int t,int n)
     {
         int sum=0;

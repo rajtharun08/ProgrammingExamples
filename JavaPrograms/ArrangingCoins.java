@@ -1,4 +1,4 @@
-class Solution {
+class ArrangingCoins {
     public int arrangeCoins(int n)
     {
         int count=0;

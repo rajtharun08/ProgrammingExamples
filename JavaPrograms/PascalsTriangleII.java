@@ -1,4 +1,4 @@
-class Solution {
+class PascalsTriangleII {
     public int ncr(int n, int r) {
         long val = 1;
         for (int i = 0; i < r; i++) {

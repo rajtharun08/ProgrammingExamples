@@ -1,6 +1,6 @@
 import java.util.List;
 import java.util.ArrayList;
-class Solution {
+class SprialMatrix {
     public List<Integer> spiralOrder(int[][] arr) 
     {
         List<Integer> res=new ArrayList<>();
