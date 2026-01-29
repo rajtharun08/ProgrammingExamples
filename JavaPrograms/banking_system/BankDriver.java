@@ -1,7 +1,6 @@
 package banking_system;
 
 import java.util.Scanner;
-
 public class BankDriver {
 	static BankAccount b;
 	public static void main(String[] args) {
