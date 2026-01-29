@@ -26,7 +26,7 @@ public class BankDriver {
 					System.out.println("balance : "+b.getBalance());
 				}
 				else if(choice ==3 ) {
-					break;
+					System.out.println(" Exiting ..... ")
 				}
 				else {
 					System.out.println("enter valid choice");
