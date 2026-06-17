@@ -1,4 +1,4 @@
-public class ShuffleTheArrayProg {
+public class ShuffleTheArray {
     public int[] shuffle(int[] arr, int n) {
        int len=arr.length;
        int index=0;
