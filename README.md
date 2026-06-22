@@ -44,6 +44,13 @@ project/
 │   ├── CountNoOfNiceSubarrays.class
 │   ├── CountNoOfNiceSubarrays.java
 │   ├── CountPairsWhoseSumIsLessThanTarget.java
+│   ├── DSA/
+│   │   ├── LinkedList.class
+│   │   ├── LinkedList.java
+│   │   ├── Node.class
+│   │   ├── Node.java
+│   │   ├── driver.class
+│   │   └── driver.java
 │   ├── DistributeCandies.class
 │   ├── DistributeCandies.java
 │   ├── FaulltyKeyboard.java
@@ -172,4 +179,5 @@ project/
 
 ## Changelog
 <!-- git-aegis-changelog -->
+* 2026-06-22 13:46:32 - feat(dsa): add singly linked list
 * 2026-06-17 07:40:31 - feat(java): Add multiple algorithmic solutions and payment abstraction
