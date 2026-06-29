@@ -7,5 +7,8 @@ public class driver {
         list.insert(20);
         list.insert(30);
         list.printList();
+        CircularLinkedList circularList = new CircularLinkedList();
+        circularList.insert(1);             
+        circularList.display();
     }
 }
